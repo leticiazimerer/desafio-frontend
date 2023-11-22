@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.container {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
